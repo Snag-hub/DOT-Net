@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T10:27:00.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="IRnPRYXsNCaoSczRsQf9" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T10:34:07.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ugyrOrIe9kYxW-rBV8Qe" version="20.4.2" type="github">
   <diagram id="DAk-ECHh4G5d3Isibp8J" name="Page-1">
     <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -214,19 +214,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-67" value="Stock(),&lt;br&gt;GetAccountVoucherProperties(),&lt;br&gt;GetUniqueStockProperties(),&lt;br&gt;cbs.RemoveRowsFromdtItemdetToBusiness()" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="547.5" y="1080" width="255" height="80" as="geometry" />
+          <mxGeometry x="547.5" y="1145" width="255" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DFRWTaqFQEr5Y6tQkVt-69" target="3DFRWTaqFQEr5Y6tQkVt-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-69" value="CheckingCreditLimit&lt;br&gt;AndCreditPeriod()" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1060" width="150" height="120" as="geometry" />
+          <mxGeometry x="300" y="1125" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DFRWTaqFQEr5Y6tQkVt-71" target="3DFRWTaqFQEr5Y6tQkVt-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-71" value="bc.Execute" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1085" width="100" height="70" as="geometry" />
+          <mxGeometry x="130" y="1150" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-73" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="255" y="1095" width="50" height="30" as="geometry" />
@@ -235,34 +235,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-74" value="Validates Data Coming from Form and storing in specified Field&lt;br&gt;&amp;amp;&lt;br&gt;Also some data evaluated according to system and Formula&amp;nbsp;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="1220" width="230" height="80" as="geometry" />
+          <mxGeometry x="65" y="1272.5" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-76" value="Data is Evaluated on the&lt;br&gt;basis&lt;br&gt;of &quot;DI&quot;, &quot;SinglePOIn&quot;, &quot;MultiplePOIn&quot;." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1300" width="220" height="60" as="geometry" />
+          <mxGeometry x="80" y="1360" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DFRWTaqFQEr5Y6tQkVt-77" target="3DFRWTaqFQEr5Y6tQkVt-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-77" value="if (AcctDet.Length &amp;gt; 0)" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1217.5" width="165" height="85" as="geometry" />
+          <mxGeometry x="395" y="1270" width="165" height="85" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DFRWTaqFQEr5Y6tQkVt-79" target="3DFRWTaqFQEr5Y6tQkVt-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-79" value="GetAccountVoucherMst&lt;br&gt;Properties()&lt;br&gt;&amp;amp;&lt;br&gt;GetAccountVoucherDetails&lt;br&gt;Properties()&lt;br&gt;&amp;amp;&lt;br&gt;SetJunctionTableProperties()&lt;br&gt;&amp;amp;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1225" width="200" height="135" as="geometry" />
+          <mxGeometry x="622.5" y="1270" width="200" height="135" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DFRWTaqFQEr5Y6tQkVt-81" target="3DFRWTaqFQEr5Y6tQkVt-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-81" value="GetAutoIndentData()&lt;br&gt;&amp;amp;&lt;br&gt;GetStockParametersOfAutoIndent" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="622.5" y="1390" width="195" height="80" as="geometry" />
+          <mxGeometry x="622.5" y="1440" width="195" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DFRWTaqFQEr5Y6tQkVt-85" target="3DFRWTaqFQEr5Y6tQkVt-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-85" value="ExecuteSave()&lt;br&gt;&amp;gt;&amp;gt;this is used to Execute the queries from DAL" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1400" width="220" height="60" as="geometry" />
+          <mxGeometry x="290" y="1450" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="3DFRWTaqFQEr5Y6tQkVt-90" target="3DFRWTaqFQEr5Y6tQkVt-92">
           <mxGeometry relative="1" as="geometry" />
@@ -271,13 +271,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-90" value="&lt;b&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;u style=&quot;font-size: 14px;&quot;&gt;Stored Procedures &amp;amp; Queries&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;PR_DeliveryOrderMst_Insert&lt;br&gt;PR_DeliveryOrderOtherDetails_Insert&lt;br&gt;PR_DeliveryOrderTaxDetails_Insert&lt;br&gt;PR_DeliveryOrderDiscountDetails_Insert&lt;br&gt;PR_DeliveryOrderItemDetails_Insert&lt;br&gt;PR_DeliveryOrderLineItemTaxDetails_Insert&lt;br&gt;PR_DeliveryOrderLineItemDiscountDetails_Insert&lt;br&gt;PR_DeliveryOrderItemSetDetails_Insert&lt;br&gt;PR_DeliveryOrderItemLocationDetails_Insert&lt;br&gt;PR_DeliveryOrderMultiplePOInDetails_Insert&lt;br&gt;PR_DeliveryOrderMultiplePOIn_Insert&lt;br&gt;PR_Stock_Insert&lt;br&gt;PR_VoucherMstAccount_Insert&lt;br&gt;PR_VoucherDetailAccount_Insert&lt;br&gt;PR_JunctionTable_Insert&lt;br&gt;PR_OutgoingUniquesStock_Insert&lt;br&gt;PR_DeleteAccountByTranaction&lt;br&gt;PR_DeleteStockByTranaction" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1500" width="400" height="290" as="geometry" />
+          <mxGeometry x="200.25" y="1550" width="400" height="290" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-92" value="Firing These Queries &amp;amp; SPs and Insert Data Into Database" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1602.5" width="152.5" height="85" as="geometry" />
+          <mxGeometry x="677.5" y="1652.5" width="152.5" height="85" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-94" value="It has to evaluate everything&lt;br&gt;before firing these SPs&lt;br&gt;If there are any error while&lt;br&gt;Evaluating then it will&lt;br&gt;through Exception" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1680" width="200" height="100" as="geometry" />
+          <mxGeometry x="640" y="1745" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="3DFRWTaqFQEr5Y6tQkVt-95" target="3DFRWTaqFQEr5Y6tQkVt-97">
           <mxGeometry relative="1" as="geometry" />
@@ -286,10 +286,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-95" value="ExecuteSaveDeliveryOrder()" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="1830" width="185" height="80" as="geometry" />
+          <mxGeometry x="307.5" y="1875" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-97" value="Error: Database or Connection Error" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="663.75" y="1850" width="152.5" height="40" as="geometry" />
+          <mxGeometry x="663.75" y="1895" width="152.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-99" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="540" y="1845" width="60" height="30" as="geometry" />
@@ -298,7 +298,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-102" value="CreateTableForAccountEffectsAndStock()&lt;br&gt;&amp;amp;&lt;br&gt;t = con.BeginTransaction();" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1930" width="280" height="60" as="geometry" />
+          <mxGeometry x="20" y="1990" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="3DFRWTaqFQEr5Y6tQkVt-104" target="3DFRWTaqFQEr5Y6tQkVt-106">
           <mxGeometry relative="1" as="geometry" />
@@ -307,7 +307,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-104" value="If(transaction run successfully)" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1920" width="105" height="80" as="geometry" />
+          <mxGeometry x="367.5" y="1980" width="105" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="3DFRWTaqFQEr5Y6tQkVt-106" target="3DFRWTaqFQEr5Y6tQkVt-110">
           <mxGeometry relative="1" as="geometry" />
@@ -319,7 +319,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-108" value="Throw Error&lt;br&gt;&amp;amp;&lt;br&gt;Reverse Everything&lt;br&gt;SPs and Queries" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="546.25" y="1915" width="227.5" height="90" as="geometry" />
+          <mxGeometry x="547.5" y="1975" width="227.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3DFRWTaqFQEr5Y6tQkVt-110" value="Stop" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="2100" width="120" height="60" as="geometry" />
