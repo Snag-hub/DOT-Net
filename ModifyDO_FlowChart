@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T05:51:57.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="YZhrh5i4JnkKd_D1OCy7" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T06:04:34.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="oavygpnV4JaS5z768MhJ" version="20.4.2" type="github">
   <diagram id="FeNpMm90RUaFJ13s53UI" name="Page-1">
     <mxGraphModel dx="868" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -180,7 +180,7 @@
         <mxCell id="GKGmJQ0s1YlQPlWA_Kvw-47" value="If Everything is Saved in Objects/Variables&lt;br&gt;THEN" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="47.25" y="820" width="120.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GKGmJQ0s1YlQPlWA_Kvw-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKGmJQ0s1YlQPlWA_Kvw-49" target="GKGmJQ0s1YlQPlWA_Kvw-52">
+        <mxCell id="GKGmJQ0s1YlQPlWA_Kvw-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GKGmJQ0s1YlQPlWA_Kvw-49" target="GKGmJQ0s1YlQPlWA_Kvw-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GKGmJQ0s1YlQPlWA_Kvw-49" value="GetStockDetails&lt;br&gt;For&lt;br&gt;DeliveryOrder(&quot;0&quot;);" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -188,19 +188,6 @@
         </mxCell>
         <mxCell id="GKGmJQ0s1YlQPlWA_Kvw-50" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="175" y="835" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GKGmJQ0s1YlQPlWA_Kvw-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GKGmJQ0s1YlQPlWA_Kvw-52" target="GKGmJQ0s1YlQPlWA_Kvw-92">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="650" y="905" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GKGmJQ0s1YlQPlWA_Kvw-52" value="A =&lt;br&gt;CheckWhetherStock&lt;br&gt;ChangedOrNot_&lt;br&gt;BeforeSave&lt;br&gt;And&lt;br&gt;Modify_Sales" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="439.75" y="850" width="160.5" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="GKGmJQ0s1YlQPlWA_Kvw-53" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="395" y="865" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GKGmJQ0s1YlQPlWA_Kvw-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="GKGmJQ0s1YlQPlWA_Kvw-77">
           <mxGeometry relative="1" as="geometry">
@@ -265,7 +252,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GKGmJQ0s1YlQPlWA_Kvw-92" value="GetTimeStampValue_Frm_&lt;br&gt;DeliveryOrderMst_By_DOID()" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="970" width="200" height="50" as="geometry" />
+          <mxGeometry x="480" y="915" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GKGmJQ0s1YlQPlWA_Kvw-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GKGmJQ0s1YlQPlWA_Kvw-97" target="GKGmJQ0s1YlQPlWA_Kvw-82">
           <mxGeometry relative="1" as="geometry" />
